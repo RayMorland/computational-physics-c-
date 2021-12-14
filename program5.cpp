@@ -25,4 +25,3 @@ int main()
         cout << "x = " << x << " exp = " << exp(-x) << " series = " << sum;
         cout << " number of terms = " << n << endl;
     }
-}
